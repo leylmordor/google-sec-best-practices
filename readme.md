@@ -1,5 +1,5 @@
 
-Security best practices
+GSuite Security Best Practicies
 
 Administrator 
 Protect admin accounts
